@@ -2,6 +2,7 @@
 
 <!--
 **Terrelle/Terrelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 I am a Computer Science student at Kent State University.
 
@@ -11,7 +12,6 @@ I am a Computer Science student at Kent State University.
 
 
 - ⚡ Fun fact: As a personal development enthusiast, I created a self-development community called [GenZbuzz](https://thegenzbuzz.com/) during my freshman year of college, which is now a community of over 130,000 members across social platforms.
--->
 
 ### Let's Connect
 
