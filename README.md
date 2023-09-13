@@ -31,7 +31,7 @@ I am a Computer Science student at Kent State University.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-![](https://komarev.com/ghpvc/?username=terrelle)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 
 
