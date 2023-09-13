@@ -14,7 +14,7 @@ I am a Computer Science student at Kent State University.
 - ⚡ Fun fact: As a personal development enthusiast, I created a self-development community called [GenZbuzz](https://thegenzbuzz.com/) during my freshman year of college, which is now a community of over 130,000 members across social platforms.
 
 ### Let's Connect
-Lets connect on [LinkedIn](https://www.linkedin.com/in/terrelle-tettey-79b739168)
+Lets connect on [LinkedIn](https://www.linkedin.com/in/terrelle-tettey-79b739168).
 
 
 
