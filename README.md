@@ -7,7 +7,7 @@
 I am a Computer Science student at Kent State University.
 
 
-- 🌱 This past summer, I was a [MLH Production Engineer Fellow at Meta](https://fellowship.mlh.io/programs/site-reliability-engineering) where I worked on an open-source project using Linux, Containers, Scripting, Testing, CI/CD. It also served as an amazing opportunity to polish my monitoring, and troubleshooting skills.
+- 🌱 This past summer, I was a [MLH Production Engineer Fellow at Meta](https://fellowship.mlh.io/programs/site-reliability-engineering) where I worked on an open-source project using Linux, Containers, Scripting, Testing, CI/CD. It also served as an amazing opportunity to polish my monitoring, and troubleshooting skills. I shared my journey (accomplishments and challenges) [here.](https://www.linkedin.com/in/terrelle-tettey-79b739168)
 
 
 
